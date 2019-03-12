@@ -1,0 +1,1 @@
+package com.txznet.adapter.library;public interface Agreement {public interface Config {/** *发送广播类型 */public static final String TYPE = "key_type";/** *包名 */public static final String PACK = "package";/** *发送指令 */public static final String ACTION = "action";/** *接收状态 */public static final String STATUS = "status";}public interface test {}}

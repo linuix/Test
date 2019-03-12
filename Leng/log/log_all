@@ -1,0 +1,374 @@
+D/2018-03-14 17:18:08 326 Leng XlsUtils row::0  [同行者语音-车机项目需求接口协议, , , , , , ] size::7
+D/2018-03-14 17:18:08 337 Leng XlsUtils row::1  [修订人, 时间, 版本, 备注, , , ] size::7
+D/2018-03-14 17:18:08 338 Leng XlsUtils row::2  [张宇鸿, 2017.4.28, V1.0, ] size::4
+D/2018-03-14 17:18:08 338 Leng XlsUtils row::3  [张宇鸿, 2017.5.9, V1.1, 增加唯一码获取协议] size::4
+D/2018-03-14 17:18:08 351 Leng XlsUtils row::4  [      栾  魁,        2017.5.9,              V1.2, 拨打电话增加num字段] size::4
+D/2018-03-14 17:18:08 352 Leng XlsUtils row::5  [杨一帆, 2017.5.17, V1.3, 增加获取蓝牙联系人] size::4
+D/2018-03-14 17:18:08 352 Leng XlsUtils row::6  [张宇鸿, 2017.5.24, V1.4, 增加启动语音协议] size::4
+D/2018-03-14 17:18:08 352 Leng XlsUtils row::7  [刘游龙, 2017.6.3, V1.5, 增加休眠唤醒协议] size::4
+D/2018-03-14 17:18:08 352 Leng XlsUtils row::8  [杨一帆, 2017.6.3, V1.6, 修改广播键值说明，避免歧义] size::4
+D/2018-03-14 17:18:08 353 Leng XlsUtils row::9  [张奎, 2017.6.5, V1.7, 增加显示隐藏语音图标协议] size::4
+D/2018-03-14 17:18:08 353 Leng XlsUtils row::10  [张奎, 2017.6.14, V1.8, 增加打开关闭屏幕协议] size::4
+D/2018-03-14 17:18:08 353 Leng XlsUtils row::11  [张宇鸿, 2017.6.16, V1.9, 增加拍视频] size::4
+D/2018-03-14 17:18:08 355 Leng XlsUtils row::12  [] size::1
+D/2018-03-14 17:18:08 355 Leng XlsUtils row::0  [同行者语音-车机项目需求接口协议, , , , ] size::5
+D/2018-03-14 17:18:08 356 Leng XlsUtils row::1  [同行者接收的广播：com.txznet.adapter.recv, , , , ] size::5
+D/2018-03-14 17:18:08 357 Leng XlsUtils row::2  [同行者发送的广播：com.txznet.adapter.send, , , , ] size::5
+D/2018-03-14 17:18:08 357 Leng XlsUtils row::3  [广播协议类型, key_type类型int值, 同行者发送, 1000.0, 应用] size::5
+D/2018-03-14 17:18:08 357 Leng XlsUtils row::4  [, , , 1010.0, 系统功能, ] size::6
+D/2018-03-14 17:18:08 358 Leng XlsUtils row::5  [, , , 1020.0, 屏幕亮度控制] size::5
+D/2018-03-14 17:18:08 359 Leng XlsUtils row::6  [, , , 1030.0, 音量控制] size::5
+D/2018-03-14 17:18:08 359 Leng XlsUtils row::7  [, , , 1040.0, 蓝牙控制] size::5
+D/2018-03-14 17:18:08 360 Leng XlsUtils row::8  [, , , 1050.0, 收音机控制] size::5
+D/2018-03-14 17:18:08 361 Leng XlsUtils row::9  [, , , 1060.0, 媒体控制] size::5
+D/2018-03-14 17:18:08 363 Leng XlsUtils row::10  [, , , 1070.0, 抓拍控制] size::5
+D/2018-03-14 17:18:08 364 Leng XlsUtils row::11  [, , , 1080.0, 车身控制] size::5
+D/2018-03-14 17:18:08 364 Leng XlsUtils row::12  [, , , 1100.0, 获取唯一码] size::5
+D/2018-03-14 17:18:08 365 Leng XlsUtils row::13  [, , , 1500.0, 其它命令字功能] size::5
+D/2018-03-14 17:18:08 366 Leng XlsUtils row::14  [, , 同行者接收, 2000.0, 语音功能通知] size::5
+D/2018-03-14 17:18:08 366 Leng XlsUtils row::15  [, , , 2010.0, 系统功能通知] size::5
+D/2018-03-14 17:18:08 366 Leng XlsUtils row::16  [, , , 2020.0, 亮度功能通知] size::5
+D/2018-03-14 17:18:08 367 Leng XlsUtils row::17  [, , , 2030.0, 音量功能通知] size::5
+D/2018-03-14 17:18:08 367 Leng XlsUtils row::18  [, , , 2040.0, 蓝牙功能通知] size::5
+D/2018-03-14 17:18:08 367 Leng XlsUtils row::19  [, , , 2070.0, 抓拍功能通知] size::5
+D/2018-03-14 17:18:08 368 Leng XlsUtils row::20  [, , , 2080.0, 空调功能通知] size::5
+D/2018-03-14 17:18:08 369 Leng XlsUtils row::0  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 370 Leng XlsUtils row::1  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 372 Leng XlsUtils row::2  [应用控制, 1000.0, 打开应用, action, open_app, -, -] size::7
+D/2018-03-14 17:18:08 372 Leng XlsUtils row::3  [, , , package, …, String, N] size::7
+D/2018-03-14 17:18:08 373 Leng XlsUtils row::4  [, , 关闭应用, action, close_app, -, -] size::7
+D/2018-03-14 17:18:08 373 Leng XlsUtils row::5  [, , , package, …, String, N] size::7
+D/2018-03-14 17:18:08 374 Leng XlsUtils row::7  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 374 Leng XlsUtils row::8  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 374 Leng XlsUtils row::9  [系统功能, 1010.0, 打开WIFI, action, open_wifi, -, -] size::7
+D/2018-03-14 17:18:08 374 Leng XlsUtils row::10  [, , 关闭WIFI, action, close_wifi, -, -] size::7
+D/2018-03-14 17:18:08 375 Leng XlsUtils row::12  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 375 Leng XlsUtils row::13  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 375 Leng XlsUtils row::14  [亮度控制, 1020.0, 增加亮度, action, screen_up, -, -] size::7
+D/2018-03-14 17:18:08 377 Leng XlsUtils row::15  [, , 降低亮度, , screen_down, -, -] size::7
+D/2018-03-14 17:18:08 378 Leng XlsUtils row::16  [, , 最大亮度, , screen_max, -, -] size::7
+D/2018-03-14 17:18:08 378 Leng XlsUtils row::17  [, , 最小亮度, , screen_min, -, -] size::7
+D/2018-03-14 17:18:08 379 Leng XlsUtils row::19  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 379 Leng XlsUtils row::20  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 379 Leng XlsUtils row::21  [音量控制, 1030.0, 增加音量, action, vol_up, -, -] size::7
+D/2018-03-14 17:18:08 380 Leng XlsUtils row::22  [, , 降低音量, , vol_down, -, -] size::7
+D/2018-03-14 17:18:08 380 Leng XlsUtils row::23  [, , 最大音量, , vol_max, -, -] size::7
+D/2018-03-14 17:18:08 380 Leng XlsUtils row::24  [, , 最小音量, , vol_min, -, -] size::7
+D/2018-03-14 17:18:08 381 Leng XlsUtils row::25  [, , 静音, action, vol_mute, -, -] size::7
+D/2018-03-14 17:18:08 381 Leng XlsUtils row::26  [, , , mute, …, boolean, N] size::7
+D/2018-03-14 17:18:08 382 Leng XlsUtils row::28  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 382 Leng XlsUtils row::29  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 382 Leng XlsUtils row::30  [蓝牙控制, 1040.0, 打开蓝牙, action, open_bt, -, -] size::7
+D/2018-03-14 17:18:08 383 Leng XlsUtils row::31  [, , 关闭蓝牙, action, close_bt, -, -] size::7
+D/2018-03-14 17:18:08 383 Leng XlsUtils row::32  [, , 打电话, action, make_call, -, -] size::7
+D/2018-03-14 17:18:08 383 Leng XlsUtils row::33  [, , , num, …, String, N] size::7
+D/2018-03-14 17:18:08 384 Leng XlsUtils row::34  [, , 挂断, action, hangup, -, -] size::7
+D/2018-03-14 17:18:08 384 Leng XlsUtils row::35  [, , 接听, action, accept, -, -] size::7
+D/2018-03-14 17:18:08 385 Leng XlsUtils row::36  [, , 拒接, action, reject, -, -] size::7
+D/2018-03-14 17:18:08 385 Leng XlsUtils row::37  [, , 获取蓝牙状态, action, get_status, -, -] size::7
+D/2018-03-14 17:18:08 385 Leng XlsUtils row::38  [, , 获取联系人, action, get_contact, -, -] size::7
+D/2018-03-14 17:18:08 386 Leng XlsUtils row::40  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 386 Leng XlsUtils row::41  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 387 Leng XlsUtils row::42  [收音机控制, 1050.0, 打开收音机, action, open_radio, -, -] size::7
+D/2018-03-14 17:18:08 387 Leng XlsUtils row::43  [, , 关闭收音机, action, close_radio, -, -] size::7
+D/2018-03-14 17:18:08 388 Leng XlsUtils row::44  [, , 调频, action, ctrl_fm, -, -] size::7
+D/2018-03-14 17:18:08 388 Leng XlsUtils row::45  [, , , rate, …, String, N] size::7
+D/2018-03-14 17:18:08 388 Leng XlsUtils row::46  [, , 调幅, action, ctrl_am, -, -] size::7
+D/2018-03-14 17:18:08 389 Leng XlsUtils row::47  [, , , rate, …, String, N] size::7
+D/2018-03-14 17:18:08 389 Leng XlsUtils row::48  [, , 向上搜台, action, radio_up, -, -] size::7
+D/2018-03-14 17:18:08 389 Leng XlsUtils row::49  [, , 向下搜台, action, radio_down, -, -] size::7
+D/2018-03-14 17:18:08 389 Leng XlsUtils row::50  [, , 收藏电台, action, favour, -, -] size::7
+D/2018-03-14 17:18:08 390 Leng XlsUtils row::51  [, , 取消收藏, action, unfavour, -, -] size::7
+D/2018-03-14 17:18:08 390 Leng XlsUtils row::52  [, , 打开收藏列表, action, open_favour, -, -] size::7
+D/2018-03-14 17:18:08 390 Leng XlsUtils row::53  [, , 关闭收藏列表, action, close_favour, -, -] size::7
+D/2018-03-14 17:18:08 391 Leng XlsUtils row::55  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 391 Leng XlsUtils row::56  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 391 Leng XlsUtils row::57  [媒体控制, 1060.0, 打开音乐, action, open_mplayer, -, -] size::7
+D/2018-03-14 17:18:08 391 Leng XlsUtils row::58  [, , 关闭音乐, action, close_mplayer, -, -] size::7
+D/2018-03-14 17:18:08 392 Leng XlsUtils row::59  [, , 播放, action, play, -, -] size::7
+D/2018-03-14 17:18:08 393 Leng XlsUtils row::60  [, , 暂停, action, pause, -, -] size::7
+D/2018-03-14 17:18:08 393 Leng XlsUtils row::61  [, , 继续播放, action, continue, -, -] size::7
+D/2018-03-14 17:18:08 394 Leng XlsUtils row::62  [, , 上一首, action, prev, -, -] size::7
+D/2018-03-14 17:18:08 394 Leng XlsUtils row::63  [, , 下一首, action, next, -, -] size::7
+D/2018-03-14 17:18:08 395 Leng XlsUtils row::64  [, , 随机切歌, action, play_random, -, -] size::7
+D/2018-03-14 17:18:08 395 Leng XlsUtils row::65  [, , 列表循环模式, action, loop_all, -, -] size::7
+D/2018-03-14 17:18:08 396 Leng XlsUtils row::66  [, , 单曲循环模式, action, loop_one, -, -] size::7
+D/2018-03-14 17:18:08 397 Leng XlsUtils row::67  [, , 随机模式, action, loop_random, -, -] size::7
+D/2018-03-14 17:18:08 397 Leng XlsUtils row::68  [, , 播放类型音乐, action, play_module, -, -] size::7
+D/2018-03-14 17:18:08 397 Leng XlsUtils row::69  [, , , title, …, String, Y] size::7
+D/2018-03-14 17:18:08 398 Leng XlsUtils row::70  [, , , album, …, String, Y] size::7
+D/2018-03-14 17:18:08 398 Leng XlsUtils row::71  [, , , artist, …, String[], Y] size::7
+D/2018-03-14 17:18:08 399 Leng XlsUtils row::72  [, , , keywords, …, String[], Y] size::7
+D/2018-03-14 17:18:08 399 Leng XlsUtils row::73  [, , , text, …, String, N] size::7
+D/2018-03-14 17:18:08 399 Leng XlsUtils row::74  [, , 收藏当前音乐, action, favour, -, -] size::7
+D/2018-03-14 17:18:08 399 Leng XlsUtils row::75  [, , 取消收藏, action, unfavour, -, -] size::7
+D/2018-03-14 17:18:08 400 Leng XlsUtils row::77  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 401 Leng XlsUtils row::78  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 401 Leng XlsUtils row::79  [抓拍控制, 1070.0, 抓拍照片, action, capture_photo, -, -] size::7
+D/2018-03-14 17:18:08 401 Leng XlsUtils row::80  [, , 抓拍视频, action, capture_video, -, -] size::7
+D/2018-03-14 17:18:08 402 Leng XlsUtils row::82  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 402 Leng XlsUtils row::83  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 402 Leng XlsUtils row::84  [空调控制, 1080.0, 打开空调, action, open_air, -, -] size::7
+D/2018-03-14 17:18:08 403 Leng XlsUtils row::85  [, , 关闭空调, action, close_air, -, -] size::7
+D/2018-03-14 17:18:08 403 Leng XlsUtils row::86  [, , 打开制冷, action, open_ac, -, -] size::7
+D/2018-03-14 17:18:08 403 Leng XlsUtils row::87  [, , 关闭制冷, action, close_ac, -, -] size::7
+D/2018-03-14 17:18:08 404 Leng XlsUtils row::88  [, , 空调温度增加, action, temp_up, -, -] size::7
+D/2018-03-14 17:18:08 405 Leng XlsUtils row::89  [, , , temp, …, int, N] size::7
+D/2018-03-14 17:18:08 405 Leng XlsUtils row::90  [, , 空调温度降低, action, temp_down, -, -] size::7
+D/2018-03-14 17:18:08 406 Leng XlsUtils row::91  [, , , temp, …, int, N] size::7
+D/2018-03-14 17:18:08 406 Leng XlsUtils row::92  [, , 空调温度调至, action, ctrl_temp, -, -] size::7
+D/2018-03-14 17:18:08 406 Leng XlsUtils row::93  [, , , temp, …, int, N] size::7
+D/2018-03-14 17:18:08 406 Leng XlsUtils row::94  [, , 吹面模式, action, mode_face, -, -] size::7
+D/2018-03-14 17:18:08 407 Leng XlsUtils row::95  [, , 吹脚模式, action, mode_foot, -, -] size::7
+D/2018-03-14 17:18:08 407 Leng XlsUtils row::96  [, , 除霜模式, action, mode_defrost, -, -] size::7
+D/2018-03-14 17:18:08 407 Leng XlsUtils row::97  [, , 自动模式, action, mode_auto, -, -] size::7
+D/2018-03-14 17:18:08 407 Leng XlsUtils row::98  [, , 吹面吹脚模式, action, mode_face_foot, -, -] size::7
+D/2018-03-14 17:18:08 408 Leng XlsUtils row::99  [, , 吹脚除霜模式, action, mode_foot_defrost, -, -] size::7
+D/2018-03-14 17:18:08 409 Leng XlsUtils row::100  [, , 打开前除霜, action, open_front_defrost, -, -] size::7
+D/2018-03-14 17:18:08 409 Leng XlsUtils row::101  [, , 关闭前除霜, action, close_front_defrost, -, -] size::7
+D/2018-03-14 17:18:08 409 Leng XlsUtils row::102  [, , 打开后除霜, action, open_behind_defrost, -, -] size::7
+D/2018-03-14 17:18:08 410 Leng XlsUtils row::103  [, , 关闭后除霜, action, close_behind_defrost, -, -] size::7
+D/2018-03-14 17:18:08 411 Leng XlsUtils row::104  [, , 切换内循环, action, loop_inside, -, -] size::7
+D/2018-03-14 17:18:08 411 Leng XlsUtils row::105  [, , 切换外循环, action, loop_outside, -, -] size::7
+D/2018-03-14 17:18:08 412 Leng XlsUtils row::106  [, , 风量增加, action, wind_up, -, -] size::7
+D/2018-03-14 17:18:08 412 Leng XlsUtils row::107  [, , 风量降低, action, wind_down, -, -] size::7
+D/2018-03-14 17:18:08 413 Leng XlsUtils row::108  [, , 风量调整至, action, ctrl_wind, -, -] size::7
+D/2018-03-14 17:18:08 414 Leng XlsUtils row::109  [, , , wind, …, int, N] size::7
+D/2018-03-14 17:18:08 414 Leng XlsUtils row::111  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 414 Leng XlsUtils row::112  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 415 Leng XlsUtils row::113  [获取唯一码, 1100.0, 获取唯一码, action, get_uuid, -, -] size::7
+D/2018-03-14 17:18:08 417 Leng XlsUtils row::0  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 417 Leng XlsUtils row::1  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 417 Leng XlsUtils row::2  [语音功能通知, 2000.0, 语音界面(自动), action, txz_auto, -, -] size::7
+D/2018-03-14 17:18:08 417 Leng XlsUtils row::3  [, , 打开语音界面
+(手动), action, open_manual, -, -] size::7
+D/2018-03-14 17:18:08 418 Leng XlsUtils row::4  [, , , text, …, String, N] size::7
+D/2018-03-14 17:18:08 418 Leng XlsUtils row::5  [, , 关闭语音界面
+(手动), action, close_manual, -, -] size::7
+D/2018-03-14 17:18:08 419 Leng XlsUtils row::6  [, , TTS播报
+(语音前台), action, tts_res, -, -] size::7
+D/2018-03-14 17:18:08 419 Leng XlsUtils row::7  [, , , text, …, String, N] size::7
+D/2018-03-14 17:18:08 419 Leng XlsUtils row::8  [, , , close, …, boolean, Y] size::7
+D/2018-03-14 17:18:08 419 Leng XlsUtils row::9  [, , TTS(后台播报), action, tts, -, -] size::7
+D/2018-03-14 17:18:08 420 Leng XlsUtils row::10  [, , , type, …, int, Y] size::7
+D/2018-03-14 17:18:08 420 Leng XlsUtils row::11  [, , , , , , ] size::7
+D/2018-03-14 17:18:08 420 Leng XlsUtils row::12  [, , , , , , ] size::7
+D/2018-03-14 17:18:08 421 Leng XlsUtils row::13  [, , , , , , ] size::7
+D/2018-03-14 17:18:08 421 Leng XlsUtils row::14  [, , , , , , ] size::7
+D/2018-03-14 17:18:08 421 Leng XlsUtils row::15  [, , 悬浮按钮控制, action, ctrl_button, -, -] size::7
+D/2018-03-14 17:18:08 422 Leng XlsUtils row::16  [, , , mode, …, int, N] size::7
+D/2018-03-14 17:18:08 422 Leng XlsUtils row::18  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 422 Leng XlsUtils row::19  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 422 Leng XlsUtils row::20  [系统功能通知, 2010.0, 系统即将休眠, action, before_sleep, -, -] size::7
+D/2018-03-14 17:18:08 423 Leng XlsUtils row::21  [, , 正式休眠, action, sleep, -, -] size::7
+D/2018-03-14 17:18:08 423 Leng XlsUtils row::22  [, , 系统唤醒, action, wakeup, -, -] size::7
+D/2018-03-14 17:18:08 423 Leng XlsUtils row::23  [, , 震动唤醒, action, shock_wakeup, -, -] size::7
+D/2018-03-14 17:18:08 423 Leng XlsUtils row::24  [, , 进入倒车, action, enter_reverse, -, -] size::7
+D/2018-03-14 17:18:08 424 Leng XlsUtils row::25  [, , 退出倒车, action, quit_reverse, -, -] size::7
+D/2018-03-14 17:18:08 424 Leng XlsUtils row::26  [, , 将要关机, action, before_off, -, -] size::7
+D/2018-03-14 17:18:08 424 Leng XlsUtils row::27  [, , 汽车熄火, action, car_flameout, -, -] size::7
+D/2018-03-14 17:18:08 425 Leng XlsUtils row::29  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 425 Leng XlsUtils row::30  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 425 Leng XlsUtils row::31  [亮度功能通知, 2020.0, 亮度达到最高, action, screen_max, -, -] size::7
+D/2018-03-14 17:18:08 426 Leng XlsUtils row::32  [, , 亮度达到最低, , screen_min, -, -] size::7
+D/2018-03-14 17:18:08 426 Leng XlsUtils row::33  [, , 亮度介于之间, , screen_normal, -, -] size::7
+D/2018-03-14 17:18:08 426 Leng XlsUtils row::35  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 427 Leng XlsUtils row::36  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 427 Leng XlsUtils row::37  [音量功能通知, 2030.0, 音量达到最高, action, vol_max, -, -] size::7
+D/2018-03-14 17:18:08 427 Leng XlsUtils row::38  [, , 音量达到最低, , vol_min, -, -] size::7
+D/2018-03-14 17:18:08 427 Leng XlsUtils row::39  [, , 音量介于之间, , vol_normal, -, -] size::7
+D/2018-03-14 17:18:08 427 Leng XlsUtils row::41  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 428 Leng XlsUtils row::42  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 428 Leng XlsUtils row::43  [蓝牙功能通知, 2030.0, 状态：连接, action, onconnect, -, -] size::7
+D/2018-03-14 17:18:08 428 Leng XlsUtils row::44  [, , 状态：断开, action, ondisconnect, -, -] size::7
+D/2018-03-14 17:18:08 428 Leng XlsUtils row::45  [, , 状态：空闲可用, action, onidle, -, -] size::7
+D/2018-03-14 17:18:08 429 Leng XlsUtils row::46  [, , 状态：蓝牙电话
+来电, action, onincoming, -, -] size::7
+D/2018-03-14 17:18:08 429 Leng XlsUtils row::47  [, , , name, …, String, Y] size::7
+D/2018-03-14 17:18:08 429 Leng XlsUtils row::48  [, , , num, …, String, Y] size::7
+D/2018-03-14 17:18:08 429 Leng XlsUtils row::49  [, , 状态：蓝牙电话
+去电, action, onmakecall, -, -] size::7
+D/2018-03-14 17:18:08 430 Leng XlsUtils row::50  [, , , name, …, String, Y] size::7
+D/2018-03-14 17:18:08 430 Leng XlsUtils row::51  [, , , num, …, String, N] size::7
+D/2018-03-14 17:18:08 430 Leng XlsUtils row::52  [, , 状态：电话挂断, action, onhangup, -, -] size::7
+D/2018-03-14 17:18:08 431 Leng XlsUtils row::53  [, , 状态：电话拒接, action, onreject, -, -] size::7
+D/2018-03-14 17:18:08 431 Leng XlsUtils row::54  [, , 状态：电话接通, action, onoffhook, -, -] size::7
+D/2018-03-14 17:18:08 431 Leng XlsUtils row::55  [, , 蓝牙联系人, action, contact, -, -] size::7
+D/2018-03-14 17:18:08 431 Leng XlsUtils row::56  [, , , json, …, String, N] size::7
+D/2018-03-14 17:18:08 431 Leng XlsUtils row::58  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 432 Leng XlsUtils row::59  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 432 Leng XlsUtils row::60  [抓拍功能通知, 2070.0, 抓拍照片路径回传, action, path_photo, -, -] size::7
+D/2018-03-14 17:18:08 432 Leng XlsUtils row::61  [, , , path, …, String, N] size::7
+D/2018-03-14 17:18:08 432 Leng XlsUtils row::62  [, , 抓拍视频路径回传, action, path_video, -, -] size::7
+D/2018-03-14 17:18:08 432 Leng XlsUtils row::63  [, , , path, …, String, N] size::7
+D/2018-03-14 17:18:08 433 Leng XlsUtils row::65  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 433 Leng XlsUtils row::66  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 433 Leng XlsUtils row::67  [空调功能通知, 2080.0, 温度调整, action, ctrl_temp, -, -] size::7
+D/2018-03-14 17:18:08 433 Leng XlsUtils row::68  [, , , num, …, int, N] size::7
+D/2018-03-14 17:18:08 433 Leng XlsUtils row::69  [, , 风量调整, action, ctrl_wind, -, -] size::7
+D/2018-03-14 17:18:08 434 Leng XlsUtils row::70  [, , , num, …, int, N] size::7
+D/2018-03-14 17:18:08 434 Leng XlsUtils row::72  [模块, key_type, 功能项, Intent字段, , 可变参数解释, ] size::7
+D/2018-03-14 17:18:08 434 Leng XlsUtils row::73  [, 1000.0, , Key, Value, 类型, 可否为空] size::7
+D/2018-03-14 17:18:08 434 Leng XlsUtils row::74  [唯一码
+通知, 2100.0, 激活唯一码, uuid, …, String, N] size::7
+D/2018-03-14 17:18:08 435 Leng XlsUtils row::0  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 436 Leng XlsUtils row::1  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 436 Leng XlsUtils row::2  [应用控制, 1000.0, 打开应用, action, open_app, package, 包名,String类型] size::7
+D/2018-03-14 17:18:08 436 Leng XlsUtils row::3  [, , 关闭应用, action, close_app, package, 包名,String类型] size::7
+D/2018-03-14 17:18:08 437 Leng XlsUtils row::5  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 437 Leng XlsUtils row::6  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 437 Leng XlsUtils row::7  [系统功能, 1010.0, 打开WIFI, action, open_wifi, -, -] size::7
+D/2018-03-14 17:18:08 437 Leng XlsUtils row::8  [, , 关闭WIFI, action, close_wifi, -, -] size::7
+D/2018-03-14 17:18:08 437 Leng XlsUtils row::10  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 437 Leng XlsUtils row::11  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 438 Leng XlsUtils row::12  [亮度控制, 1020.0, 增加亮度, action, screen_up, -, -] size::7
+D/2018-03-14 17:18:08 438 Leng XlsUtils row::13  [, , 降低亮度, action, screen_down, -, -] size::7
+D/2018-03-14 17:18:08 438 Leng XlsUtils row::14  [, , 最大亮度, action, screen_max, -, -] size::7
+D/2018-03-14 17:18:08 438 Leng XlsUtils row::15  [, , 最小亮度, action, screen_min, -, -] size::7
+D/2018-03-14 17:18:08 438 Leng XlsUtils row::17  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 439 Leng XlsUtils row::18  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 439 Leng XlsUtils row::19  [音量控制, 1030.0, 增加音量, action, vol_up, -, -] size::7
+D/2018-03-14 17:18:08 439 Leng XlsUtils row::20  [, , 降低音量, action, vol_down, -, -] size::7
+D/2018-03-14 17:18:08 439 Leng XlsUtils row::21  [, , 最大音量, action, vol_max, -, -] size::7
+D/2018-03-14 17:18:08 439 Leng XlsUtils row::22  [, , 最小音量, action, vol_min, -, -] size::7
+D/2018-03-14 17:18:08 440 Leng XlsUtils row::24  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 440 Leng XlsUtils row::25  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 440 Leng XlsUtils row::26  [蓝牙控制, 1040.0, 打开蓝牙, action, open_bt, -, -] size::7
+D/2018-03-14 17:18:08 440 Leng XlsUtils row::27  [, , 关闭蓝牙, action, close_bt, -, -] size::7
+D/2018-03-14 17:18:08 440 Leng XlsUtils row::28  [, , 打电话, action, make_call, num, 电话号码
+String类型] size::7
+D/2018-03-14 17:18:08 441 Leng XlsUtils row::29  [, , 挂断, action, hangup, -, -] size::7
+D/2018-03-14 17:18:08 441 Leng XlsUtils row::30  [, , 接听, action, accept, -, -] size::7
+D/2018-03-14 17:18:08 441 Leng XlsUtils row::31  [, , 拒接, action, reject, -, -] size::7
+D/2018-03-14 17:18:08 441 Leng XlsUtils row::32  [, , 获取蓝牙状态, action, get_status, -, -] size::7
+D/2018-03-14 17:18:08 441 Leng XlsUtils row::33  [, , 获取联系人, action, get_contact, -, -] size::7
+D/2018-03-14 17:18:08 442 Leng XlsUtils row::34  [, , , , , , ] size::7
+D/2018-03-14 17:18:08 442 Leng XlsUtils row::35  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 442 Leng XlsUtils row::36  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 442 Leng XlsUtils row::37  [收音机控制, 1050.0, 打开收音机, action, open_radio, -, -] size::7
+D/2018-03-14 17:18:08 443 Leng XlsUtils row::38  [, , 关闭收音机, action, close_radio, -, -] size::7
+D/2018-03-14 17:18:08 443 Leng XlsUtils row::39  [, , 调频, action, ctrl_fm, rate, 频率,String类型] size::7
+D/2018-03-14 17:18:08 443 Leng XlsUtils row::40  [, , 调幅, action, ctrl_am, rate, 频率,String类型] size::7
+D/2018-03-14 17:18:08 443 Leng XlsUtils row::42  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 443 Leng XlsUtils row::43  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 443 Leng XlsUtils row::44  [媒体控制, 1060.0, 打开音乐, action, open_mplayer, -, -] size::7
+D/2018-03-14 17:18:08 444 Leng XlsUtils row::45  [, , 关闭音乐, action, close_mplayer, -, -] size::7
+D/2018-03-14 17:18:08 444 Leng XlsUtils row::46  [, , 播放, action, play, rate, 频率,String类型] size::7
+D/2018-03-14 17:18:08 444 Leng XlsUtils row::47  [, , 暂停, action, pause, rate, 频率,String类型] size::7
+D/2018-03-14 17:18:08 444 Leng XlsUtils row::48  [, , 继续播放, action, continue, -, -] size::7
+D/2018-03-14 17:18:08 444 Leng XlsUtils row::49  [, , 上一首, action, prev, -, -] size::7
+D/2018-03-14 17:18:08 445 Leng XlsUtils row::50  [, , 下一首, action, next, -, -] size::7
+D/2018-03-14 17:18:08 445 Leng XlsUtils row::51  [, , 随机切歌, action, play_random, -, -] size::7
+D/2018-03-14 17:18:08 445 Leng XlsUtils row::52  [, , 列表循环模式, action, loop_all, -, -] size::7
+D/2018-03-14 17:18:08 445 Leng XlsUtils row::53  [, , 单曲循环模式, action, loop_one, -, -] size::7
+D/2018-03-14 17:18:08 445 Leng XlsUtils row::54  [, , 随机模式, action, loop_random, -, -] size::7
+D/2018-03-14 17:18:08 446 Leng XlsUtils row::55  [, , 播放类型音乐, action, play_module, title, 歌名,String类型] size::7
+D/2018-03-14 17:18:08 446 Leng XlsUtils row::56  [, , , album, 专辑,String类型, artist, 歌手,String[]类型] size::7
+D/2018-03-14 17:18:08 446 Leng XlsUtils row::57  [, , , keywords, 关键字,String[]类型, text, 用户指令,String类型] size::7
+D/2018-03-14 17:18:08 446 Leng XlsUtils row::58  [, , 收藏当前音乐, action, favour, -, -] size::7
+D/2018-03-14 17:18:08 446 Leng XlsUtils row::59  [, , 取消收藏, action, unfavour, -, -] size::7
+D/2018-03-14 17:18:08 447 Leng XlsUtils row::61  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 447 Leng XlsUtils row::62  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 447 Leng XlsUtils row::63  [抓拍控制, 1070.0, 抓拍照片, action, capture_photo, -, -] size::7
+D/2018-03-14 17:18:08 447 Leng XlsUtils row::64  [, , 抓拍视频, action, capture_video, -, -] size::7
+D/2018-03-14 17:18:08 447 Leng XlsUtils row::66  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 448 Leng XlsUtils row::67  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 448 Leng XlsUtils row::68  [车身控制, 1080.0, 打开空调, action, open_air, -, -] size::7
+D/2018-03-14 17:18:08 448 Leng XlsUtils row::69  [, , 关闭空调, action, close_air, -, -] size::7
+D/2018-03-14 17:18:08 448 Leng XlsUtils row::70  [, , 打开制冷, action, open_ac, -, -] size::7
+D/2018-03-14 17:18:08 448 Leng XlsUtils row::71  [, , 关闭制冷, action, close_ac, -, -] size::7
+D/2018-03-14 17:18:08 449 Leng XlsUtils row::72  [, , 空调温度增加, action, temp_up, num, 增加温度值，int类型] size::7
+D/2018-03-14 17:18:08 449 Leng XlsUtils row::73  [, , 空调温度降低, action, temp_down, num, 降低温度值，int类型] size::7
+D/2018-03-14 17:18:08 449 Leng XlsUtils row::74  [, , 空调温度调至, action, ctrl_temp, num, 目标温度,int类型] size::7
+D/2018-03-14 17:18:08 449 Leng XlsUtils row::75  [, , 吹面模式, action, mode_face, -, -] size::7
+D/2018-03-14 17:18:08 449 Leng XlsUtils row::76  [, , 吹脚模式, action, mode_foot, -, -] size::7
+D/2018-03-14 17:18:08 449 Leng XlsUtils row::77  [, , 除霜模式, action, mode_defrost, -, -] size::7
+D/2018-03-14 17:18:08 450 Leng XlsUtils row::78  [, , 自动模式, action, mode_auto, -, -] size::7
+D/2018-03-14 17:18:08 450 Leng XlsUtils row::79  [, , 吹面吹脚模式, action, mode_face_foot, -, -] size::7
+D/2018-03-14 17:18:08 451 Leng XlsUtils row::80  [, , 吹脚除霜模式, action, mode_foot_defrost, -, -] size::7
+D/2018-03-14 17:18:08 451 Leng XlsUtils row::81  [, , 打开前除霜, action, open_front_defrost, -, -] size::7
+D/2018-03-14 17:18:08 451 Leng XlsUtils row::82  [, , 关闭前除霜, action, close_front_defrost, -, -] size::7
+D/2018-03-14 17:18:08 451 Leng XlsUtils row::83  [, , 打开后除霜, action, open_behind_defrost, -, -] size::7
+D/2018-03-14 17:18:08 451 Leng XlsUtils row::84  [, , 关闭后除霜, action, close_behind_defrost, -, -] size::7
+D/2018-03-14 17:18:08 451 Leng XlsUtils row::85  [, , 切换内循环, action, loop_inside, -, -] size::7
+D/2018-03-14 17:18:08 451 Leng XlsUtils row::86  [, , 切换外循环, action, loop_outside, -, -] size::7
+D/2018-03-14 17:18:08 452 Leng XlsUtils row::87  [, , 风量调整至, action, ctrl_wind, num, 目标风量，int类型] size::7
+D/2018-03-14 17:18:08 452 Leng XlsUtils row::89  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 452 Leng XlsUtils row::90  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 452 Leng XlsUtils row::91  [获取唯一码, 1100.0, 获取唯一码, action, get_uuid, -, -] size::7
+D/2018-03-14 17:18:08 452 Leng XlsUtils row::92  [, , , , ] size::5
+D/2018-03-14 17:18:08 453 Leng XlsUtils row::0  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 453 Leng XlsUtils row::1  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 453 Leng XlsUtils row::2  [语音功能通知, 2000.0, 语音界面(自动), action, txz_auto, -, -] size::7
+D/2018-03-14 17:18:08 454 Leng XlsUtils row::3  [, , 打开语音(手动), action, open_manual, text, 文本，String类型] size::7
+D/2018-03-14 17:18:08 454 Leng XlsUtils row::4  [, , 关闭语音(手动), action, close_manual, -, -] size::7
+D/2018-03-14 17:18:08 454 Leng XlsUtils row::5  [, , TTS播报, action, tts, text, 文本，String类型] size::7
+D/2018-03-14 17:18:08 454 Leng XlsUtils row::6  [, , , display, 文本是否显示在界面上，boolean类型, close, TTS完成后关闭界面，boolean类型] size::7
+D/2018-03-14 17:18:08 454 Leng XlsUtils row::7  [, , TTS播报(语音界面显示字符), action, tts_res, text, 文本，String类型] size::7
+D/2018-03-14 17:18:08 455 Leng XlsUtils row::8  [, , , close, TTS完成后关闭界面，boolean类型, -, -] size::7
+D/2018-03-14 17:18:08 459 Leng XlsUtils row::9  [, , TTS(后台播报), action, tts, text, 文本，String类型] size::7
+D/2018-03-14 17:18:08 460 Leng XlsUtils row::10  [, , , type
+（默认值0）, 播报类型，int类型
+0：普通模式,tts排队, , ] size::7
+D/2018-03-14 17:18:08 460 Leng XlsUtils row::11  [, , , , 播报类型，int类型
+1：立即打断，取消当前tts并且插队播放, , ] size::7
+D/2018-03-14 17:18:08 460 Leng XlsUtils row::12  [, , , , 播报类型，int类型
+2：下一个插入，不取消当前tts，插队下一个播放, , ] size::7
+D/2018-03-14 17:18:08 460 Leng XlsUtils row::13  [, , , , 播报类型，int类型
+3：播放当前并清空TTS队列, , ] size::7
+D/2018-03-14 17:18:08 460 Leng XlsUtils row::14  [, , , , 播报类型，int类型
+4：立即打断，不取消当前tts, , ] size::7
+D/2018-03-14 17:18:08 461 Leng XlsUtils row::15  [, , 悬浮按钮控制, action, ctrl_button, mode, int类型
+0：置顶模式] size::7
+D/2018-03-14 17:18:08 461 Leng XlsUtils row::16  [, , , , , , int类型
+1：层级显示] size::7
+D/2018-03-14 17:18:08 461 Leng XlsUtils row::17  [, , , , , , int类型
+2：关闭语音图标] size::7
+D/2018-03-14 17:18:08 461 Leng XlsUtils row::18  [, , , , , ] size::6
+D/2018-03-14 17:18:08 462 Leng XlsUtils row::19  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 462 Leng XlsUtils row::20  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 462 Leng XlsUtils row::21  [系统功能通知, 2010.0, 系统即将休眠, action, before_sleep, -, -] size::7
+D/2018-03-14 17:18:08 462 Leng XlsUtils row::22  [, , 正式休眠, action, sleep, -, -] size::7
+D/2018-03-14 17:18:08 462 Leng XlsUtils row::23  [, , 系统唤醒, action, wakeup, -, -] size::7
+D/2018-03-14 17:18:08 462 Leng XlsUtils row::24  [, , 震动唤醒, action, shock_wakeup, -, -] size::7
+D/2018-03-14 17:18:08 462 Leng XlsUtils row::25  [, , 进入倒车, action, enter_reverse, -, -] size::7
+D/2018-03-14 17:18:08 463 Leng XlsUtils row::26  [, , 退出倒车, action, quit_reverse, -, -] size::7
+D/2018-03-14 17:18:08 463 Leng XlsUtils row::27  [, , 将要关机, action, before_power_off, -, -] size::7
+D/2018-03-14 17:18:08 463 Leng XlsUtils row::28  [, , 汽车熄火, action, car_flameout, -, -] size::7
+D/2018-03-14 17:18:08 463 Leng XlsUtils row::29  [, , , , , , ] size::7
+D/2018-03-14 17:18:08 463 Leng XlsUtils row::30  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 464 Leng XlsUtils row::31  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 464 Leng XlsUtils row::32  [亮度功能通知, 2020.0, 亮度达到最高, action, screen_max, -, -] size::7
+D/2018-03-14 17:18:08 464 Leng XlsUtils row::33  [, , 亮度达到最低, , screen_min, -, -] size::7
+D/2018-03-14 17:18:08 464 Leng XlsUtils row::35  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 464 Leng XlsUtils row::36  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 464 Leng XlsUtils row::37  [音量功能通知, 2030.0, 音量达到最高, action, vol_max, -, -] size::7
+D/2018-03-14 17:18:08 464 Leng XlsUtils row::38  [, , 音量达到最低, , vol_min, -, -] size::7
+D/2018-03-14 17:18:08 465 Leng XlsUtils row::40  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 465 Leng XlsUtils row::41  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 465 Leng XlsUtils row::42  [蓝牙功能通知, 2030.0, 蓝牙连接, action, onconnect, -, -] size::7
+D/2018-03-14 17:18:08 465 Leng XlsUtils row::43  [, , 蓝牙断开, action, ondisconnect, -, -] size::7
+D/2018-03-14 17:18:08 465 Leng XlsUtils row::44  [, , 蓝牙空闲可用, action, onidle, -, -] size::7
+D/2018-03-14 17:18:08 465 Leng XlsUtils row::45  [, , 蓝牙电话来电, action, onincoming, name, 来电姓名(可为空)
+String类型] size::7
+D/2018-03-14 17:18:08 465 Leng XlsUtils row::46  [, , , num, 来电号码
+String类型, -, -] size::7
+D/2018-03-14 17:18:08 466 Leng XlsUtils row::47  [, , 蓝牙电话去电, action, onmakecall, name, 去电姓名(可为空)
+String类型] size::7
+D/2018-03-14 17:18:08 466 Leng XlsUtils row::48  [, , , num, 去电号码
+String类型, -, -] size::7
+D/2018-03-14 17:18:08 466 Leng XlsUtils row::49  [, , 蓝牙电话挂断, action, onhangup, -, -] size::7
+D/2018-03-14 17:18:08 466 Leng XlsUtils row::50  [, , 蓝牙电话拒接, action, onreject, -, -] size::7
+D/2018-03-14 17:18:08 466 Leng XlsUtils row::51  [, , 蓝牙电话接通, action, onoffhook, -, -] size::7
+D/2018-03-14 17:18:08 467 Leng XlsUtils row::53  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 467 Leng XlsUtils row::54  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 467 Leng XlsUtils row::55  [空调功能通知, 2080.0, 温度调整, action, ctrl_temp, num, 空调当前温度
+int类型] size::7
+D/2018-03-14 17:18:08 467 Leng XlsUtils row::56  [, , 风量调整, action, ctrl_wind, num, 空调当前风量
+int类型] size::7
+D/2018-03-14 17:18:08 467 Leng XlsUtils row::58  [模块, key_type, 功能项, Intent字段1, , Intent字段2, ] size::7
+D/2018-03-14 17:18:08 467 Leng XlsUtils row::59  [, 1000.0, , Key, Value, Key, Value] size::7
+D/2018-03-14 17:18:08 467 Leng XlsUtils row::60  [唯一码通知, 2100.0, 激活唯一码, uuid, 车身唯一码
+String类型, -, -] size::7
+D/2018-03-14 17:18:08 468 Leng XlsUtils row::61  [, , , , ] size::5
+D/2018-03-14 17:18:08 469 Leng JavaUtils classPath::com/txznet/adapter/library

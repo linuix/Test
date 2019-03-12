@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://H:/carry/leng_work/AdapterUtils/libs/xmlbeans-2.3.0.jar!/" />
+      <root url="jar://H:/carry/leng_work/AdapterUtils/libs/poi-3.8-20120326.jar!/" />
+      <root url="jar://H:/carry/leng_work/AdapterUtils/libs/poi-ooxml-3.8-20120326.jar!/" />
+      <root url="jar://H:/carry/leng_work/AdapterUtils/libs/poi-ooxml-schemas-3.8-20120326.jar!/" />
+      <root url="jar://H:/carry/leng_work/AdapterUtils/libs/dom4j-1.6.1.jar!/" />
+      <root url="jar://H:/carry/leng_work/AdapterUtils/libs/mysql-connector-java-5.1.19-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
