@@ -4,12 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdapterTest/AdapterTest.iml" filepath="$PROJECT_DIR$/AdapterTest/AdapterTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnnotationTest/AnnotationTest.iml" filepath="$PROJECT_DIR$/AnnotationTest/AnnotationTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../Generator_dimen/Generator_dimen.iml" filepath="$PROJECT_DIR$/../../Generator_dimen/Generator_dimen.iml" />
+      <module fileurl="file://$USER_HOME$/Generator_dimen/Generator_dimen.iml" filepath="$USER_HOME$/Generator_dimen/Generator_dimen.iml" />
       <module fileurl="file://$PROJECT_DIR$/../NIOTest/NIOTest.iml" filepath="$PROJECT_DIR$/../NIOTest/NIOTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProxyTest/ProxyTest.iml" filepath="$PROJECT_DIR$/ProxyTest/ProxyTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursive/Recursive.iml" filepath="$PROJECT_DIR$/Recursive/Recursive.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reference/Reference.iml" filepath="$PROJECT_DIR$/Reference/Reference.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPool/ThreadPool.iml" filepath="$PROJECT_DIR$/ThreadPool/ThreadPool.iml" />
       <module fileurl="file://$PROJECT_DIR$/VolatileTest/VolatileTest.iml" filepath="$PROJECT_DIR$/VolatileTest/VolatileTest.iml" />
     </modules>
   </component>
