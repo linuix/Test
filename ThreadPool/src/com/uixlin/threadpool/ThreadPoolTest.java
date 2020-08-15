@@ -8,7 +8,7 @@ public class ThreadPoolTest {
             excutor.exec(new Runnable() {
                 @Override
                 public void run() {
-                    System.out.println("线程 " + Thread.currentThread().getName() + " 在帮我干活");
+                    System.out.println("线程 " + Thread.currentThread().getName() + " 在帮我干活 ---------");
                 }
             });
         }

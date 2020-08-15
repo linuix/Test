@@ -7,6 +7,7 @@
       <module fileurl="file://$USER_HOME$/Generator_dimen/Generator_dimen.iml" filepath="$USER_HOME$/Generator_dimen/Generator_dimen.iml" />
       <module fileurl="file://$PROJECT_DIR$/../NIOTest/NIOTest.iml" filepath="$PROJECT_DIR$/../NIOTest/NIOTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProxyTest/ProxyTest.iml" filepath="$PROJECT_DIR$/ProxyTest/ProxyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueueBlockingCacheTest/QueueBlockingCacheTest.iml" filepath="$PROJECT_DIR$/QueueBlockingCacheTest/QueueBlockingCacheTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursive/Recursive.iml" filepath="$PROJECT_DIR$/Recursive/Recursive.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reference/Reference.iml" filepath="$PROJECT_DIR$/Reference/Reference.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
