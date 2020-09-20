@@ -2,7 +2,7 @@
  * 要点：1、循环读写。 2、块读写。 3、已满则覆盖写。4、空则阻塞
  * 写满则丢掉前面的数组
  */
-public class QueueBlockingCache{
+public class QueueBlockingCache {
 	private static final int CAPACITY = 64 * 1024;
 	private byte[] mBufferCache = null;
 	private int mSize = 0;
@@ -51,6 +51,8 @@ public class QueueBlockingCache{
 			mSize -= newOffset;
 			System.arraycopy(mBufferCache, newOffset, mBufferCache, 0, mSize);
 		}
+		// 注意！！
+		// 这里有个坑，如果length > mBufferCache.length，会导致mSize < 0。这里会有ArrayIndexOutOfBoundsException的crash
 		System.arraycopy(data, offset, mBufferCache, mSize, length);
 		mSize+= length;
 		notifyAll();
@@ -83,7 +85,7 @@ public class QueueBlockingCache{
 		System.arraycopy(mBufferCache, 0, data, offset, size);
 		mSize -= size;
 		if (mSize > 0){
-			System.arraycopy(mBufferCache, size, mBufferCache, offset, mSize);
+			System.arraycopy(mBufferCache, size, mBufferCache, 0, mSize);
 		}
 		return size;
 	}
